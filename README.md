@@ -1,7 +1,7 @@
 # Image Generation using Stable Diffusion
 
 ###  Prodigy Infotech Internship Task – Task 2
-**Author:** shnakar sutar
+**Author:** soham phadnis
 **Project:** Image Generation with Pre-trained Models  
 
 ---
